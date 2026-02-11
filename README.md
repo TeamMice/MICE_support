@@ -1,2 +1,63 @@
-# MICE_support
-Official issue tracker and user support repository for the MICE iOS app. Please report bugs, crashes, and feature requests here.
+# MICE – User Support & Issue Tracker
+
+이 저장소는 **MICE iOS 앱의 공식 사용자 지원 및 이슈 접수 전용 페이지**입니다.
+
+본 저장소에는 앱의 소스 코드가 포함되어 있지 않으며,
+버그 제보, 오류 신고, 기능 개선 요청 및 사용자 피드백을 접수하기 위한 목적으로만 운영됩니다.
+
+---
+
+## 📌 앱 소개
+
+**MICE**는 박물관, 전시관 등 문화 공간을 방문하며
+위치 기반으로 스탬프를 수집할 수 있는 iOS 애플리케이션입니다.
+
+- Apple 로그인 기반 회원 관리
+- 위치 기반 스탬프 획득 시스템
+- 스탬프 수집 현황 관리
+- 즐겨찾기 기능
+
+---
+
+## 🐞 버그 제보 방법
+
+문제가 발생한 경우 아래 정보를 함께 남겨주시면 빠른 확인에 도움이 됩니다.
+
+- 사용 기기 (예: iPhone 15 Pro)
+- iOS 버전
+- 앱 버전
+- 발생 시점 및 재현 방법
+- 가능하다면 스크린샷 첨부
+
+👉 Issues 탭에 새 이슈를 생성해주세요.
+
+---
+
+## 💡 기능 개선 및 피드백
+
+앱 사용 중 개선 아이디어나 제안 사항이 있다면 언제든지 이슈로 남겨주세요.
+모든 피드백은 팀에서 검토 후 반영 여부를 결정합니다.
+
+---
+
+## 🧪 TestFlight
+
+현재 MICE 앱은 TestFlight를 통해 베타 테스트가 진행 중입니다.
+
+TestFlight 참여 링크:
+https://testflight.apple.com/join/BS79fxdx
+
+---
+
+## 📩 직접 문의
+
+이슈 등록이 어려운 경우 아래 이메일로 문의해주세요.
+
+- booby9709@gmail.com
+- gksmf0160@gmail.com
+- jesbio@naver.com
+
+---
+
+감사합니다.
+W2MICE
